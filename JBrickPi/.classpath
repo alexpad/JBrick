@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="commons-src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_31"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JBrickCommons"/>
+	<classpathentry kind="lib" path="libs/junit.jar"/>
+	<classpathentry kind="lib" path="libs/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="libs/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="libs/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="libs/pi4j-service.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
