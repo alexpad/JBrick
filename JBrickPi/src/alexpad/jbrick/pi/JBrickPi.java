@@ -5,6 +5,8 @@ import alexpad.jbrick.pi.robot.ApplicationContextImpl;
 
 public class JBrickPi {
 	
+	// ready to go with git?
+	
 	private ApplicationContextImpl ctx;
 	
 	public JBrickPi() {
